@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sambit Ghosh</h1>
 <h3 align="center">I'm passionate about exploring different technical domains</h3>
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="center" alt="Coding" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit31&label=Profile%20views&color=0e75b6&style=flat" alt="sambit31" /> </p>
 
