@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!--
   Profile README for github.com/sambitg31/sambitg31
 -->
@@ -13,7 +13,7 @@
 
 ## Sambit Ghosh
 
-**Full-Stack Developer · AI/ML Builder · Hackathon Participant**
+**Full-Stack Developer · Web Dev · Hackathon Participant**
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sambitg31-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/sambitg31)
 [![GitHub](https://img.shields.io/badge/GitHub-sambitg31-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambitg31)
@@ -34,7 +34,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambit31" alt="sambit31" /></a> </p>
 
-- 🌱 I’m currently learning **Web3,Blockchain**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **sambit1089@gamil.com**
 
